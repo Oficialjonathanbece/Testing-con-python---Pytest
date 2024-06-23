@@ -22,7 +22,7 @@
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-** No dude en modificar, ampliar o utilizar este código para sus proyectos personales o de aprendizaje. Considere proporcionar atribución si la usa o distribuye.**
+**No dude en modificar, ampliar o utilizar este código para sus proyectos personales o de aprendizaje. Considere proporcionar atribución si la usa o distribuye**
 <footer>
   <p>&copy; 2024 Todos los derechos reservados. Credit Jonathan Rodriguez Becerra https://github.com/Oficialjonathanbece </p>
 </footer>
