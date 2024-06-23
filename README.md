@@ -1,12 +1,7 @@
----
-noteId: "fffdcf40311611efa50fdfd52534f4ee"
-tags: []
-
----
-
 # Testing-con-python-Pytest
 
 ######APLICACIÓN DE SALUDO PERSONALIZADA CON PRUEBAS UNITARIAS
+
 > Este repositorio presenta una aplicación Python que ofrece saludos personalizados según la hora del día y demuestra prácticas de pruebas unitarias.
 
 ##Características
