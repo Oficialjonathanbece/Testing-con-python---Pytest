@@ -1,10 +1,10 @@
 # Testing-con-python-Pytest
 
-######APLICACIÓN DE SALUDO PERSONALIZADA CON PRUEBAS UNITARIAS
+###### APLICACIÓN DE SALUDO PERSONALIZADA CON PRUEBAS UNITARIAS
 
 > Este repositorio presenta una aplicación Python que ofrece saludos personalizados según la hora del día y demuestra prácticas de pruebas unitarias.
 
-##Características
+## Características
 
 - Saludo interactivo: la Greeterclase solicita al usuario su nombre y genera un saludo personalizado según la hora actual (Buenos días, Buenas tardes o Buenas noches).
 
